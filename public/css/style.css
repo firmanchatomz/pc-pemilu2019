@@ -1,0 +1,18 @@
+/* Make Your Style ini Here */
+.card-body {
+	padding: 5px;
+}
+
+footer {
+	background-color: #ccc;
+	padding: 10px;
+}
+
+.batas {
+	margin-top: 40px;
+	height: 100px;
+}
+
+header {
+	margin-top: 10px;
+}
